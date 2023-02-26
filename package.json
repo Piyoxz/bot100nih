@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "SamuelScheit/baileys": "github:SamuelScheit/Baileys",
+        "@adiwajshing/baileys": "github:SamuelScheit/Baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.0",
         "@replit/node-fetch": "^3.1.0",
