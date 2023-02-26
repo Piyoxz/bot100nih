@@ -1,0 +1,35 @@
+{
+    "name": "customer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "SamuelScheit/baileys": "github:SamuelScheit/Baileys",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.0",
+        "@replit/node-fetch": "^3.1.0",
+        "apminsight": "^2.8.0",
+        "awesome-phonenumber": "^2.68.0",
+        "axios": "^0.26.0",
+        "body-parser": "^1.19.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.3",
+        "fetch": "^1.1.0",
+        "forever-monitor": "^3.0.3",
+        "fs-extra": "^10.0.0",
+        "https": "^1.0.0",
+        "moment-timezone": "^0.5.34",
+        "node-fetch": "^3.3.0",
+        "performance-now": "^2.1.0",
+        "ping-monitor": "^0.7.0",
+        "pino": "^7.8.0",
+        "qrcode-terminal": "^0.12.0",
+        "ssl-express-www": "^3.0.8",
+        "wa-sticker-formatter": "^4.3.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "alvio adji januar",
+    "license": "MIT"
+}
